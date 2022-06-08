@@ -1,0 +1,12 @@
+.button{
+    margin: 30px;
+  
+    
+    
+}
+.button>button{
+    color: white;
+    background-color: aqua;
+    height: 30px;
+    border-radius: 10px;
+}
